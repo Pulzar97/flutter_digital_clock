@@ -22,4 +22,4 @@ flutter:
   fonts:
     - family: LilitaOne
       fonts:
-        - asset: font/third_party/LilitaOne-Regular.ttf
+        - asset: third_party/font/LilitaOne-Regular.ttf
